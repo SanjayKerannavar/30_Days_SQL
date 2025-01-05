@@ -1,1 +1,1 @@
-# 30_Days_SQL
+# 30_Days_SQL_Practice
